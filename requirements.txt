@@ -4,4 +4,4 @@ imutils
 numpy
 gradio
 mediapipe==0.10.10
-
+torchlm
