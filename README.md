@@ -6,6 +6,7 @@
 ## Download the model first:
 - Please visit https://github.com/davisking/dlib-models
 - Download the file name - shape_predictor_68_face_landmarks.dat
+- You need to create a folder named "model"
 - Save the shape_predictor_68_face_landmarks.dat into model folder in the same project.
 
 ## To run face orientation only
